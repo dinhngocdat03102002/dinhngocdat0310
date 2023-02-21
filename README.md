@@ -9,7 +9,7 @@ I'm a Computer Science student at the International University focusing to work 
 * 🌍  I'm based in Ho Chi Minh City
 * ✉️  You can contact me at [dinhngocdat69@gmail.com](mailto:dinhngocdat69@gmail.com)
 * 🧠  I'm learning ReactJS, Spring Boot
-* 🤝  I'm open to collaborating on some interesting Projects
+* 🤝  I'm open to collaborating on some interesting Projects.
 
 ### Skills
 
